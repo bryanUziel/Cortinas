@@ -1,0 +1,23 @@
+table,tr,td{
+	border: 1px solid black;
+	background: gray;
+}
+#idCortina{
+	background: white;
+	font-size: 50px;
+}
+#idRed{
+	background: #ccc;
+	width: 60px;
+	border-radius: 100%;
+}
+#idYellow{
+	background: yellow;
+	width: 60px;
+	border-radius: 100%;
+}
+#idGreen{
+	background: green;
+	width: 60px;
+	border-radius: 100%;
+}
