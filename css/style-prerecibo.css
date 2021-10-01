@@ -1,18 +1,31 @@
-table,tr,td{
+section{
+	float: left;
+	width: 50%;
+}
+aside{
+	margin-top: 15px;
+	float: right;
+	width: 50%;
+}
+table{
+	border-collapse: separate;
+	border-spacing: 5px 12px;
+	background: black;
+}
+tr,td{
 	border: 1px solid black;
-	background: gray;
 }
 #idCortina{
 	background: white;
 	font-size: 50px;
 }
 #idRed{
-	background: #ccc;
+	background: black;
 	width: 60px;
 	border-radius: 100%;
 }
 #idYellow{
-	background: yellow;
+	background: red;
 	width: 60px;
 	border-radius: 100%;
 }

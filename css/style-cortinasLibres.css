@@ -1,0 +1,22 @@
+table{
+	border-collapse: separate;
+	border-spacing: 5px 12px;
+	background: black;
+}
+
+.cortina{
+	border: 1px solid black;
+}
+.espacio{
+	background: white;
+}
+#idCortina{
+	background: white;
+	font-size: 50px;
+}
+
+#idGreen{
+	background: green;
+	width: 60px;
+	border-radius: 100%;
+}
